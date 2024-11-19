@@ -1,1 +1,2 @@
 sample text file
+remote changes to local 
